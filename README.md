@@ -18,3 +18,6 @@ table3.row[N].y = (table1.row[N].y + table2.row[N].y) / 2;
 На графике реализовано зумирование и возможность "тянуть" график в разные стороны
 
 page: https://aleksandr-khokhrin.github.io/Charts/
+
+
+![image](https://github.com/Aleksandr-Khokhrin/MyForumApp_react-front/assets/147053338/d1421d97-c486-45f4-b34f-5faede758ca4)
