@@ -1,6 +1,7 @@
 # Charts
 
-![image](https://github.com/user-attachments/assets/240e4906-b02a-4f13-987f-c19e98f4c22a)
+![image](https://github.com/user-attachments/assets/f3064a03-2eae-4c69-a8bc-82f5a41d3fc0)
+
 
 При нажатии на кнопку  Calculate выполняется  2 действия:
 1) Расчет 3 таблицы. Количество строк у третей таблицы взято у таблицы с минимальным 
